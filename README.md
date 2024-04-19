@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mohammed Rayan H</h1>
-<h3 align="center">A passionate Mern stack developer from India</h3>
+<h3 align="center">A Passionate Mern stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 🔭 I’m currently working on **Real-time applications**
+- 🔭 I’m currently working on **Real-time Applications**
 
 - 👨‍💻 All of my projects are available at https://my-portfolio-mohammedrayan04s-projects.vercel.app/
 
-- 💬 Ask me about **Highly interested in working on backend projects**
+- 💬 Ask me about **Highly interested in working on Backend Projects**
 
 - 📫 How to reach me **mohammedriyan.h@gmail.com**
 
