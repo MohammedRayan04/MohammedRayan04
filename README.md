@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Real-time Applications**
 
-- 👨‍💻 All of my projects are available at https://my-portfolio-mohammedrayan04s-projects.vercel.app/
+- 👨‍💻 All of my projects are available on MyPortfolio at https://my-portfolio-mohammedrayan04s-projects.vercel.app/
 
 - 💬 Ask me about **Highly interested in working on Backend Projects**
 
